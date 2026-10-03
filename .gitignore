@@ -1,0 +1,6 @@
+.godot/
+outputs/
+work/
+*.tmp
+*.exe
+*.pck
